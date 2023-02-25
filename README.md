@@ -10,7 +10,7 @@
 ## Introduction
 This repo contains course assignments of [CSCE-676 Data-Mining] at TAMU offered by Dr. James Caverlee during Spring 2022 semester.
 
-## HW1  |
+## HW1 Exploratory Data Analysis | Association Rule Mining
 
 - <b>HW1P1</b>
 Collect UFO data from the web(http://www.nuforc.org/webreports/ndxlTX.html), clean it and then make some observations based on exploratory data analysis. 
