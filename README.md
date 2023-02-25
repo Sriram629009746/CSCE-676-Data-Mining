@@ -2,13 +2,13 @@
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
-- [HW1 Exploratory Data Analysis | Association Rule Mining](#hw1)
-- [HW2 Twitter Data Mining using Spark](#hw2-twitter--data--mining--using--Spark)
-- [HW3 Data Viz | Movie Recommender](#hw3-dataviz--movie-recommender)
-- [HW4 Twitter Data Mining using Embeddings](#hw4-embeddings)
+- [HW1 Exploratory Data Analysis | Association Rule Mining](#hw1-exploratory-data-analysis--association-rule-mining)
+- [HW2 Twitter Data Mining using Spark](#hw2-twitter-data-mining-using-Spark)
+- [HW3 Data Viz | Movie Recommender](#hw3-data-viz--movie-recommender)
+- [HW4 Twitter Data Mining using Embeddings](#hw4-twitter-data-mining-using-embeddings)
 
 ## Introduction
-This repo contains course assignments of [CSCE-676 Data-Mining] at TAMU offered by Dr. James Caverlee during Spring 2022 semester.
+This repo contains course assignments of CSCE-676 Data-Mining at TAMU offered by Dr. James Caverlee during Spring 2022 semester.
 
 ## HW1 Exploratory Data Analysis | Association Rule Mining
 
